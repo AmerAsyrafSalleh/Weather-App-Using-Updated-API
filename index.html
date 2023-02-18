@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags for responsive design -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Import external CSS file -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Preconnect to Google Fonts API to improve loading times -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    
+    <!-- Set the page title -->
+    <title>Weather</title>
+</head>
+<body>
+    <!-- Main container for weather information -->
+    <div class="container">
+
+        <!-- Location name and weather icon -->
+        <div class="location">
+            <h1 class="location-name">-</h1>
+            <img class="icon" alt="-">
+        </div>
+
+        <!-- Temperature and description -->
+        <div class="temperature">
+            <div class="degree-section">
+                <h2 class="temperature-degree">--.-</h2>
+                <span>C</span>
+            </div>
+
+            <!-- Weather description -->
+            <div class="temperature-description">-</div>
+        </div>
+    </div>
+
+    <!-- Import JavaScript file -->
+    <script src="app.js"></script>
+</body>
+</html>
