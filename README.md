@@ -1,5 +1,5 @@
 # Weather-App-Using-Updated-API
-This is a simple weather app that displays the current temperature and weather conditions for a given location using currently available API. The app is built using HTML, CSS, and JavaScript.
+This is a simple weather app that displays the current temperature and weather conditions for a given location using currently available API. The app is built using HTML, CSS, and JavaScript. You can click on the link to preview it: https://htmlpreview.github.io/?https://github.com/AmerAsyrafSalleh/Weather-App-Using-Updated-API/blob/main/index.html (Make sure to allow your browser to use your location)
 
 ## Features
 Displays the current temperature and weather conditions for a given location.
